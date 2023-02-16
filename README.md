@@ -1,1 +1,1 @@
-# naughty-fox
+# Naughty Fox
